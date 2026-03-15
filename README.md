@@ -1,8 +1,9 @@
-Project Log Assignments
-Mason France
-Kylan Konopaski
-Christopher Rockwell
-Rusty Lewis
+##Project Log Assignments
+Contributions discussed in voice
+Mason France 
+Kylan Konopaski 
+Christopher Rockwell 
+Rusty Lewis 
 # Module Two Team Project Plan
 ### *Choose a scenario and select the four additional elements you will include.
 Scenario 3: Top Down
