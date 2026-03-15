@@ -1,4 +1,4 @@
-##Project Log Assignments
+## Project Log Assignments
 Contributions discussed in voice
 Mason France 
 Kylan Konopaski 
