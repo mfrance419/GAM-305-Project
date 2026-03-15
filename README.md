@@ -19,7 +19,8 @@ Refer to timeline word document
 #### Alpha
 Core Player character 
 Additional elements finished
-#### Core level finished
+#### Beta
+Core level finished
 
 ### Choose preferred communication method(s).
 Discord Server
