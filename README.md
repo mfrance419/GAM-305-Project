@@ -32,6 +32,4 @@ Thursday afternoon Voice Meeting
 ### Choose a method for assigning and reporting on specific task items.
 Group VC Democracy
 
-Christopher Rockwell
---------------------
-I will work on the pickups this next week
+Christopher Rockwell - I will work on the pickups this next week
