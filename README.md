@@ -40,3 +40,13 @@ Discord Server. This will allow us to quickly and easily share updates and any i
 Group VC Democracy. Tasks will be assigned during team dicussions in Discord voice and text channels and we can report on progress each week as well.
 
 Christopher Rockwell - I will work on the pickups this next week
+
+# Module Three Project Log - Team Development: QA and Testing Plan
+
+### Mason France
+
+### Christopher Rockwell
+
+### Kylan Konopaski
+
+### Rusty Lewis
