@@ -52,7 +52,7 @@ Test Schedule:
 - Module 7 Post Code Release test (testing overall functionality and checking edgecases for any unintended behavior)
 ### Mason France
 - What items will be tested? Include a checklist of items to be tested (pass/fail).
-- Bugs and features will be tracked through an excel spreadsheet matrix which will be uploaded to the github, after features are discussed they will be added to the matrix, when features are finished they will be marked off, bugs will be added to the bugs section of the feature.
+- Bugs and features will be tracked through an excel spreadsheet matrix which will be uploaded to the github, after features are discussed they will be added to the matrix, when features are finished they will be marked off, bugs will be added to the bugs section of the feature. Testing Matrix found here https://github.com/mfrance419/GAM-305-Project/blob/master/GAM-305TestingMatrix.xlsx
 ### Rusty Lewis
 #### How will you update the test plan to reflect changes to the game and design document?
 - All project test plan updates will be done after any and all changes to the project. In order to keep a clear clean trackrecored of any changes. The team will confirm what updates they will be working on and write out a detailed summary of what was accomplished in the discord. Along with in the test matrix and github, to ensure that there is no confusion among the team. 
