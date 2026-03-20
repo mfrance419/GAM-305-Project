@@ -55,6 +55,7 @@ Test Schedule:
 - Bugs and features will be tracked through an excel spreadsheet matrix which will be uploaded to the github, after features are discussed they will be added to the matrix, when features are finished they will be marked off, bugs will be added to the bugs section of the feature.
 ### Rusty Lewis
 #### How will you update the test plan to reflect changes to the game and design document?
+- All project test plan updates will be done after any and all changes to the project. In order to keep a clear clean trackrecored of any changes. The team will confirm what updates they will be working on and write out a detailed summary of what was accomplished in the discord. Along with in the test matrix and github, to ensure that there is no confusion among the team. 
 ### Christopher Rockwell
 - How will bugs be reported? The bugs will be reported in the excel spreadsheet and to each other through discord
 - How will the bugs and their changes be tracked over time? The bugs and their changes will be tracked in a similar way where we track them through the excel and communicate the changes through discord
