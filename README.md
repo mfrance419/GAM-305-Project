@@ -48,7 +48,8 @@ Christopher Rockwell - I will work on the pickups this next week
 - Bugs and features will be tracked through an excel spreadsheet matrix which will be uploaded to the github, after features are discussed they will be added to the matrix, when features are finished they will be marked off, bugs will be added to the bugs section of the feature.
 
 ### Christopher Rockwell
-
+- How will bugs be reported? The bugs will be reported in the excel spreadsheet and to each other through discord
+- How will the bugs and their changes be tracked over time? The bugs and their changes will be tracked in a similar way where we track them through the excel and communicate the changes through discord
 ### Kylan Konopaski
 
 ### Rusty Lewis
