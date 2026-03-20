@@ -44,6 +44,8 @@ Christopher Rockwell - I will work on the pickups this next week
 # Module Three Project Log - Team Development: QA and Testing Plan
 
 ### Mason France
+- What items will be tested? Include a checklist of items to be tested (pass/fail).
+- Bugs and features will be tracked through an excel spreadsheet matrix which will be uploaded to the github, after features are discussed they will be added to the matrix, when features are finished they will be marked off, bugs will be added to the bugs section of the feature.
 
 ### Christopher Rockwell
 
