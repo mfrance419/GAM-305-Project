@@ -60,4 +60,12 @@ Test Schedule:
 - How will bugs be reported? The bugs will be reported in the excel spreadsheet and to each other through discord
 - How will the bugs and their changes be tracked over time? The bugs and their changes will be tracked in a similar way where we track them through the excel and communicate the changes through discord
 
+# Module Four Project Log - Team Reflection
 
+### Kylan Konopaski
+
+### Mason France
+
+### Rusty Lewis
+
+### Christopher Rockwell
