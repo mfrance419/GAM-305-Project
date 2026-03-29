@@ -77,3 +77,4 @@ One of the best tools I have found for the Alpha is of course Github, being able
 So for our tools and techniques we haven't really been using the timeline or the excel sheet. The team has mainly just talking to each other and do pour parts in our own way. 
 ### Christopher Rockwell
 ##### How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+Based on our initial analysis of the game design document we knew we needed to use Github to collaorate on the project, which was necessary to combine the individual work we've done to make the alpha. The other tool we used was Unreal Engine, which despite being the course requirement is still a very good game development tool that allowed us to work on th project both individually and as a team.
