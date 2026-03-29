@@ -63,7 +63,6 @@ Test Schedule:
 # Module Four Project Log - Team Reflection
 
 ### Kylan Konopaski
-### Kylan Konopaski
 ##### What parts of the testing process did the team perceive to go well?
 The testing process has gone really well so far throughout development. We typically test our features as we implement them instead of waiting until the end of each stage. This helps us to catch issues early so that they don't compound into bigger issues later. Also, peer reviews have gone really well since we try to get atleast one other person to test any features we implement before merging it into the master branch. This is successful because it allows us to test from different perspectives and possibly uncover issues that we might have not found otherwise. Testing the alpha release also went really well because once we were able to get all of our features merged together we could see how they interact together and there were no major issues. I expect to have a successful testing process during beta development as well.
 ##### How were bugs identified and corrected?
