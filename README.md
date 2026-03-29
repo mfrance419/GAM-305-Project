@@ -71,5 +71,6 @@ Test Schedule:
 One of the best tools I have found for the Alpha is of course Github, being able to have everything in one place is fantastic along with being able to collaborate using the tool just makes github one of the best tools for any kind of software development. unreal engine also does a lot especially with the blueprints, Unreal was one of the first to really push visual scripting into the mainstream when it came to game development which allows almost anyone to be able to pick up game development and make it more accessible for everyone.
 ### Rusty Lewis
 ##### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+So for our tools and techniques we haven't really been using the timeline or the excel sheet. The team has mainly just talking to each other and do pour parts in our own way. 
 ### Christopher Rockwell
 ##### How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
