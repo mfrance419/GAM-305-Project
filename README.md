@@ -78,3 +78,5 @@ On our project, we did not fine the timeline or the excel sheet to be very helpf
 ### Christopher Rockwell
 ##### How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 Based on our initial analysis of the game design document we knew we needed to use Github to collaorate on the project, which was necessary to combine the individual work we've done to make the alpha. The other tool we used was Unreal Engine, which despite being the course requirement is still a very good game development tool that allowed us to work on th project both individually and as a team.
+
+# Module Five Project Log - Team Reflection.
