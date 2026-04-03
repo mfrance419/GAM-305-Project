@@ -80,18 +80,13 @@ On our project, we did not fine the timeline or the excel sheet to be very helpf
 Based on our initial analysis of the game design document we knew we needed to use Github to collaorate on the project, which was necessary to combine the individual work we've done to make the alpha. The other tool we used was Unreal Engine, which despite being the course requirement is still a very good game development tool that allowed us to work on th project both individually and as a team.
 
 # Module Five Project Log - Team Reflection.
-
 ### Kylan Konopaski
-
-### Mason France
-
-### Rusty Lewis
-
+##### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+##### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 ### Christopher Rockwell
-
-#### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-#### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
-#### How were the previous evaluations integrated into this latest stage?
-#### What would you do differently to improve the collaboration or development process?
-#### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-#### Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+##### How were the previous evaluations integrated into this latest stage?
+### Mason France
+##### What would you do differently to improve the collaboration or development process?
+##### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+### Rusty Lewis
+##### Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
