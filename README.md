@@ -99,13 +99,12 @@ The completed stage of the Beta is having a more refined layout of the level. Gi
 ## Beta Stage Status Assessment
 We were able to complete most of our planned updates for the Beta stage as outlined in our Top-Down Timeline document. Among some miscellaneous improvements we were able to add chestplate, leggings, and dynamite equipment and make them functional by having armor reduce damage and the dynamite do area damage. We also added materials and textures to the cannon and bow stationary enemies, and all of the player weapons and armor. We also were able to implement the speed boost pickup which doubles the players speed temporarily. Additionally we created a level layout more akin to our final level design so we can test out playthrough strategies. We still need to add the AOE obstacle, make obstacles do damage, and add materials to the powerups, but we will have no problem finishing these for the final submission stage among the other planned updates. Overall everything went very well for this beta stage and we are on track.
 # Module Six Project Log - Team Reflection
-### Kylan Konopaski
 ### Christopher Rockwell
-### Mason France
-### Rusty Lewis
-
 ##### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+### Rusty Lewis
 ##### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+### Mason France
 ##### How were the previous evaluations integrated into this latest stage?
+### Kylan Konopaski
 ##### What would you do differently to improve the collaboration or development process? 
 ##### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
