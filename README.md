@@ -105,6 +105,7 @@ We were able to complete most of our planned updates for the Beta stage as outli
 ##### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 ### Mason France
 ##### How were the previous evaluations integrated into this latest stage?
+With the previous evaluations coming so late in the week it can be very hard to integrate them into the development by the time the next week is up but we did anticipate some of the feedback we would get. The biggest thing we have been trying to accomplish is to develop more together and with each other which really helps with the QA part of development which I believe is our biggest weakness. By developing together this allows for multiple checks happening while the development sprints are ongoing as well as being able to pitch ideas quicker and get feedback. After the development sprints we can take time to slow down, play through what we have and be able to give the feedback together as a group which allows for better quality assurance between our development times.
 ### Kylan Konopaski
 ##### What would you do differently to improve the collaboration or development process? 
 ##### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
