@@ -101,6 +101,7 @@ We were able to complete most of our planned updates for the Beta stage as outli
 # Module Six Project Log - Team Reflection
 ### Christopher Rockwell
 ##### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+After the previous evaluation, we still needed to do some work on the additional elements, add the win condition, health bars, finish the level, and add a main menu. All of these went well, the additional elements have been added, textured, and work without any issues. The Win condition works, the health bars work, the main menu works, and the level is fully textured. 
 ### Rusty Lewis
 ##### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 ### Mason France
